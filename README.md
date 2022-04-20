@@ -3,6 +3,16 @@
 
 Machine Learning applications are becoming popular in our industry, however the process for developing, deploying, and continuously improving them is more complex compared to more traditional software, such as a web service or a mobile application. They are subject to change in three axis: the code itself, the model, and the data. Their behaviour is often complex and hard to predict, and they are harder to test, harder to explain, and harder to improve
 
+# MLFLOW
+
+https://mlflow.org/docs/latest/quickstart.html
+
+# MetaFlow
+
+https://docs.metaflow.org/
+
+# DVC 
+https://dvc.org/
 
 # Rules For Machine Learning 
 ### Document Added in Repository for More Details 
