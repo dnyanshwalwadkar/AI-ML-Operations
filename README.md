@@ -28,6 +28,9 @@ https://medium.com/@schogini/ml-ops-in-machine-learning-model-containerizing-for
 
 The term MLOps is often used in context with the operations and maintenance of machine learning models. MLOps is a set of practices that aims to deploy and maintain machine learning models in production reliably. The prime objective of MLOps is to ensure that models are always ready for production, by automating model deployment, monitoring the model’s accuracy and optimizing parameters. This ensures that the models are accurate enough for their designated use case and provide the desired ROI
 
+# MLOps for Automated Training, Evaluation, Deployment and Monitoring
+https://medium.com/@bhagatk/mlops-for-automated-training-evaluation-deployment-and-monitoring-part-ii-a053d9824b1a
+
 # Rules For Machine Learning 
 ### Document Added in Repository for More Details 
 
