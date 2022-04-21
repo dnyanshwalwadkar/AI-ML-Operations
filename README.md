@@ -14,6 +14,20 @@ https://docs.metaflow.org/
 # DVC 
 https://dvc.org/
 
+# How to Build and Run your Entire End-to-end ML Life-cycle with Scalable Components
+https://medium.com/@dr-arsanjani/run-your-end-to-end-ml-life-cycle-with-scalable-components-82be6bb9a4f1
+
+# Best Practices for MLOps Documentation
+https://medium.com/@nifesimifrank/best-practices-for-mlops-documentation-8324f32bb9db
+
+# The Life Cycle of a Machine Learning [ML] Model Project with MLflow
+https://medium.com/@royalcyberinc/the-life-cycle-of-a-machine-learning-ml-model-project-with-mlflow-87950d6c4fe3
+
+# ML Ops in Machine Learning — Model Containerizing for MLOps
+https://medium.com/@schogini/ml-ops-in-machine-learning-model-containerizing-for-mlops-4915fc4007a7
+
+The term MLOps is often used in context with the operations and maintenance of machine learning models. MLOps is a set of practices that aims to deploy and maintain machine learning models in production reliably. The prime objective of MLOps is to ensure that models are always ready for production, by automating model deployment, monitoring the model’s accuracy and optimizing parameters. This ensures that the models are accurate enough for their designated use case and provide the desired ROI
+
 # Rules For Machine Learning 
 ### Document Added in Repository for More Details 
 
